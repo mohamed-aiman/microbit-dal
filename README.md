@@ -20,7 +20,6 @@ In addition to supporting development in C/C++, the runtime is also designed spe
 | yotta  | http://lancaster-university.github.io/microbit-docs/offline-toolchains/#yotta |
 
 
-
 ## Hello World!
 
 ```cpp
